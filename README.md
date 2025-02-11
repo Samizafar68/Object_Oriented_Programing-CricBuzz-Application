@@ -35,9 +35,9 @@ This project is a **Cricket Management System** that simulates the functionality
   - File Handling (for data persistence)
   - Multi-file structure (separate `.h` and `.cpp` files)
 ## 📊 System Output & Results:
-![image](https://github.com/user-attachments/assets/3f8537d9-c637-4845-b0f4-15a331370939)
-![image](https://github.com/user-attachments/assets/780491c3-69cc-41d8-acf4-0a2c53f699d9)
-![image](https://github.com/user-attachments/assets/184eec59-cbfa-4822-a790-7b647a727113)
-![image](https://github.com/user-attachments/assets/13aa1b45-59a6-4fe2-905d-6ecb60a13de0)
-![image](https://github.com/user-attachments/assets/66f819e2-dbc5-4c8e-8f40-ada36c2a3b72)
+- ![image](https://github.com/user-attachments/assets/3f8537d9-c637-4845-b0f4-15a331370939)
+- ![image](https://github.com/user-attachments/assets/780491c3-69cc-41d8-acf4-0a2c53f699d9)
+- ![image](https://github.com/user-attachments/assets/184eec59-cbfa-4822-a790-7b647a727113)
+- ![image](https://github.com/user-attachments/assets/13aa1b45-59a6-4fe2-905d-6ecb60a13de0)
+- ![image](https://github.com/user-attachments/assets/66f819e2-dbc5-4c8e-8f40-ada36c2a3b72)
 
